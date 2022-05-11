@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+myPurpose(helping others realise)joy{tech+spirit};
 
-### More Information
+### life is...
 
-A place to include any other types of information that you'd like to include about yourself.
+i'm really here for you.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### [summon me 🧞](mailto:wxzvrd@proton.me)
