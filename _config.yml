@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: 𝐢 𝐫 𝐛𝟎𝐠𝐢𝐞
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 𝐭𝐞𝐜𝐡🧞𝐬𝐡𝐚𝐦𝐚𝐧 #ॐ ｗｅ　ａｒｅ　ｏｎｅ #ϟ
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/6885227?v=4
 
 #
 # Flags below are optional
@@ -22,14 +22,15 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: 1rb0g1e
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 1rb0g1e
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: # user/b0gietechshaman
+  discord: dsc.gg/entrypoint
+  telegram: t.me/probablentry
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -41,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://irb0gie.vercel.app
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
